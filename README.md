@@ -41,7 +41,7 @@ These datasets collectively provide a valuable resource for conducting sentiment
    - **Conference Paper** (Coming Soon):
      - **Description**: We are in the process of preparing a conference paper that summarizes the key contributions and highlights of our research. The paper will provide a concise overview of our findings and their significance in the field of sentiment analysis on social media. Stay tuned for the conference paper's publication.
 
-   To delve deeper into the project and gain a thorough understanding of our methodology and results, please access our [Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/word%20report_final%20(2).docx). Additionally, keep an eye out for the forthcoming conference paper for a condensed overview of our research.
+   To delve deeper into the project and gain a thorough understanding of our methodology and results, please access our [Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Sentiment%20Analysis%20detailed%20report.docx%20(1).pdf). Additionally, keep an eye out for the forthcoming conference paper for a condensed overview of our research.
 
 
 ## Dependencies
