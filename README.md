@@ -35,7 +35,7 @@ These datasets collectively provide a valuable resource for conducting sentiment
 
 6. **Report and Paper**: In this research internship module, we have extensively documented our findings, methodology, and results in two comprehensive documents:
    - **Research Report**:
-     - **Document**: [View Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/word%20report_final%20(2).docx)
+     - **Document**: [View Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Sentiment%20Analysis%20detailed%20report.docx%20(1).pdf)
      - **Description**: Our research report provides an in-depth exploration of the entire project. It covers the background, objectives, data collection and preprocessing, sentiment analysis model development, evaluation metrics, and insightful conclusions. It serves as a comprehensive reference for understanding the research in detail.
      
    - **Conference Paper** (Coming Soon):
