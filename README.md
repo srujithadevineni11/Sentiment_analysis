@@ -34,12 +34,20 @@ These datasets collectively provide a valuable resource for conducting sentiment
 5. **Evaluation**: Evaluate the performance of the sentiment analysis model using appropriate metrics and techniques. 
 
 6. **Report and Paper**: In this research internship module, we have extensively documented our findings, methodology, and results in two comprehensive documents:
-     - **Research Report**: [View Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Sentiment%20Analysis%20detailed%20report.docx%20(1).pdf)
+     - **Research Report**: [Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Sentiment%20Analysis%20detailed%20report.docx%20(1).pdf)
  our research report provides an in-depth exploration of the entire project. It covers the background, objectives, data collection and preprocessing, sentiment analysis model development, evaluation metrics, and insightful conclusions. It serves as a comprehensive reference for understanding the research in detail.
      
-     - **Conference Paper**: We had the privilege of presenting our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference.Our conference paper provides a concise summary of our research presented at MIR Labs. It emphasizes key contributions and highlights in the field of sentiment analysis on social media. The paper offers valuable insights into our findings and their significance. Explore the conference paper to get a quick overview of the project's key aspects[View Conference Paper](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/conference_paper_Sentiment_Analysis.pdf)
+     - **Conference Paper**: We had the privilege of presenting our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference.Our conference paper provides a concise summary of our research presented at MIR Labs. It emphasizes key contributions and highlights in the field of sentiment analysis on social media. The paper offers valuable insights into our findings and their significance. Explore the conference paper to get a quick overview of the project's key aspects[Conference Paper](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/conference_paper_Sentiment_Analysis.pdf)
 
    To delve deeper into the project and gain a thorough understanding of our methodology and results, please access our [Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Sentiment%20Analysis%20detailed%20report.docx%20(1).pdf). Additionally.
+
+## Certifications and Awards
+
+- **Certificate and Gold Medal at Research Day:**
+  - Description:[certificate]() Thrilled to have received a certificate and gold medal at Research Day for our outstanding contribution to the project. This recognition highlights the excellence and impact of our work in the field of sentiment analysis on social media.
+
+- **Conference Presentation Certificate:**
+  - Description:[certificate]()  We are honored to have presented our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference. The conference presentation certificate further acknowledges our dedication and valuable contribution to the conference.
 
 
 ## Dependencies
