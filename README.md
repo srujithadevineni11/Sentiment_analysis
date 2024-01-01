@@ -40,14 +40,15 @@ These datasets collectively provide a valuable resource for conducting sentiment
      - **Conference Paper**: We had the privilege of presenting our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference.Our conference paper provides a concise summary of our research presented at MIR Labs. It emphasizes key contributions and highlights in the field of sentiment analysis on social media. The paper offers valuable insights into our findings and their significance. Explore the conference paper to get a quick overview of the project's key aspects[Conference Paper](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/conference_paper_Sentiment_Analysis.pdf)
 
    To delve deeper into the project and gain a thorough understanding of our methodology and results, please access our [Research Report](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Sentiment%20Analysis%20detailed%20report.docx%20(1).pdf). Additionally.
+   
 
 ## Certifications and Awards
 
 - **Certificate and Gold Medal at Research Day:**
-  - Description:[certificate](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Certificate_research_day.pdf) Thrilled to have received a certificate and gold medal at Research Day for our outstanding contribution to the project. This recognition highlights the excellence and impact of our work in the field of sentiment analysis on social media.
+  - [certificate](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Certificate_research_day.pdf) Thrilled to have received a certificate and gold medal at Research Day for our outstanding contribution to the project. This recognition highlights the excellence and impact of our work in the field of sentiment analysis on social media.
 
 - **Conference Presentation Certificate:**
-  - Description:[certificate](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/IAS_conference_certificate.pdf)  We are honored to have presented our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference. The conference presentation certificate further acknowledges our dedication and valuable contribution to the conference.
+  - [certificate](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/IAS_conference_certificate.pdf)  We are honored to have presented our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference. The conference presentation certificate further acknowledges our dedication and valuable contribution to the conference.
 
 
 ## Dependencies
