@@ -47,7 +47,7 @@ These datasets collectively provide a valuable resource for conducting sentiment
   - Description:[certificate](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/Certificate_research_day.pdf) Thrilled to have received a certificate and gold medal at Research Day for our outstanding contribution to the project. This recognition highlights the excellence and impact of our work in the field of sentiment analysis on social media.
 
 - **Conference Presentation Certificate:**
-  - Description:[certificate]()  We are honored to have presented our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference. The conference presentation certificate further acknowledges our dedication and valuable contribution to the conference.
+  - Description:[certificate](https://github.com/srujithadevineni11/Sentiment_analysis/blob/main/IAS_conference_certificate.pdf)  We are honored to have presented our research paper, "Predicting User Sentiments in Social Media with Machine Learning and Natural Language Processing Techniques," at the MIR Labs Conference. The conference presentation certificate further acknowledges our dedication and valuable contribution to the conference.
 
 
 ## Dependencies
