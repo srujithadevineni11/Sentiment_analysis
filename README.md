@@ -64,5 +64,5 @@ I would like to express my gratitude to srm-ap for providing me with the opportu
 If you have any questions or would like to discuss this research further, please feel free to reach out to me:
 
 - **Name**: srujitha Devineni
-- **Email**: devinenisrujitha@srmap.edu.in
+- **Email**: devinenisrujitha@gmail.com
 
